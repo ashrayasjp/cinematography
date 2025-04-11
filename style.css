@@ -1280,6 +1280,189 @@
          background-image: url("s26.jpg");
          filter: grayscale(0%);
      }
+     
+      .image-hoverk1 {
+       background-image: url("k1.jpg");
+       width: 330px;
+       height: 270px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk1:hover { 
+        background-image: url("k1.jpg");
+        filter: grayscale(0%);
+    }   
+    .image-hoverk2 {
+       background-image: url("k2.jpg");
+       width: 330px;
+       height: 270px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk2:hover { 
+        background-image: url("k2.jpg");
+        filter: grayscale(0%);
+    } 
+      .image-hoverk3 {
+       background-image: url("k3.jpg");
+       width: 330px;
+       height: 270px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk3:hover { 
+        background-image: url("k3.jpg");
+        filter: grayscale(0%);
+    }  
+     .image-hoverk4 {
+       background-image: url("k4.jpg");
+       width: 330px;
+             height: 270px;
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk4:hover { 
+        background-image: url("k4.jpg");
+        filter: grayscale(0%);
+    } 
+      .image-hoverk5 {
+       background-image: url("k5.jpg");
+       width: 330px;
+       height: 270px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk5:hover { 
+        background-image: url("k5.jpg");
+        filter: grayscale(0%);
+    }   
+    .image-hoverk6 {
+       background-image: url("k6.jpg");
+       width: 330px;
+       height: 270px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk6:hover { 
+        background-image: url("k6.jpg");
+        filter: grayscale(0%);
+    }  
+    .image-hoverk7 {
+       background-image: url("k7.jpg");
+       width: 330px;
+       height: 270px;
+            
+            background-size: cover;
+      filter: grayscale(100%);
+       transition: 0.3s  ease-in-out;
+        
+    }
+    .image-hoverk7:hover { 
+        background-image: url("k7.jpg");
+        filter: grayscale(0%);
+    }
+
+    .image-hoverk8 {
+        background-image: url("k8.jpg");
+        width: 330px;
+             height: 270px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverk8:hover { 
+         background-image: url("k8.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverk9 {
+        background-image: url("k9.jpg");
+        width: 330px;
+             height: 270px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverk9:hover { 
+         background-image: url("k9.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverk10 {
+        background-image: url("k10.jpg");
+        width: 330px;
+        height: 270px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverk10:hover { 
+         background-image: url("k10.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverk11 {
+        background-image: url("k11.jpg");
+        width: 330px;
+        height: 270px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverk11:hover { 
+         background-image: url("k11.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverk12 {
+        background-image: url("k12.jpg");
+        width: 330px;
+        height: 270px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverk12:hover { 
+         background-image: url("k12.jpg");
+         filter: grayscale(0%);
+     }
+     .image-hoverk13 {
+        background-image: url("k13.jpg");
+        width: 330px;
+             height: 270px;
+             
+             background-size: cover;
+       filter: grayscale(100%);
+        transition: 0.3s  ease-in-out;
+         
+     }
+     .image-hoverk13:hover { 
+         background-image: url("k13.jpg");
+         filter: grayscale(0%);
+     }
     table {
         width: 150px;
             height: 200px;
@@ -1493,6 +1676,7 @@ animation-name: myfirst 0.5 seconds;
         .quentin { background: -webkit-linear-gradient(rgb(255, 0, 170), rgb(250, 48, 183), rgb(250, 142, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .hitchcock {  background: -webkit-linear-gradient( black, rgb(136, 136, 126), rgb(255, 214, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .scorsese {  background: -webkit-linear-gradient(rgb(255, 251, 0) , #fcff5a, rgb(245, 252, 158)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
+        .kubrick {  background: -webkit-linear-gradient( #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .croatia { background: -webkit-linear-gradient( red, white , lightblue); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .denmark {  background: -webkit-linear-gradient( red, rgb(255, 181, 181)); -webkit-background-clip: text; -webkit-text-fill-color:transparent;}
         .england {  background: -webkit-linear-gradient( white , red, white); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
@@ -2057,7 +2241,97 @@ animation-name: myfirst 0.5 seconds;
          
         }
         
-       
+        .image-hoverk1-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk2-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk3-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk4-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk5-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk6-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk7-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk8-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk9-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk10-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk11-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk12-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
+        .image-hoverk13-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+         
+        }
         .image-hoverf1{
             
             background-image: url("f1.jpg");
@@ -2744,6 +3018,113 @@ animation-name: myfirst 0.5 seconds;
             background-image: url("s26.jpg");
            
             background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverk1{
+            
+            background-image: url("k1.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverk2{
+            
+            background-image: url("k2.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hoverk3{
+            
+            background-image: url("k3.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk4{
+            
+            background-image: url("k4.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk5{
+            
+            background-image: url("k5.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk6{
+            
+            background-image: url("k6.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk7{
+            
+            background-image: url("k7.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk8{
+            
+            background-image: url("k8.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk9{
+            
+            background-image: url("k9.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk10{
+            
+            background-image: url("k10.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk11{
+            
+            background-image: url("k11.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk12{
+            
+            background-image: url("k12.jpg");
+           
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        } .image-hoverk13{
+            
+            background-image: url("k13.jpg");
+           
+            background-size: 250px 300px;
             filter: grayscale(100%);
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
@@ -4541,6 +4922,205 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
+            .image-hoverk1-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk2-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk3-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk4-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk5-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk6-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 16px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk7-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+            .image-hoverk8-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+          
+            .image-hoverk9-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+    
+            } 
+            .image-hoverk10-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+    
+            } 
+            .image-hoverk11-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 18px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            }
+             .image-hoverk12-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 15px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            } 
+            .image-hoverk13-text {
+                position: absolute;
+                bottom: -40px;
+                left: 0;
+                width: 100%;
+                background-color: rgba(0, 0, 0, 0);
+            color: white;
+                text-align: center;
+                padding: 0;
+                opacity: 0;
+                transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+                font-size: 15px;
+                font-family: 'Ancient Gothic';
+                font-style: italic;
+            
+        }
         .image-hoverf1-container:hover .image-hoverf1 {
             background-image: url("f1.jpg");
             filter: grayscale(0%);
@@ -4781,6 +5361,53 @@ animation-name: myfirst 0.5 seconds;
             filter: grayscale(0%);
         }.image-hovers26-container:hover .image-hovers26 {
             background-image: url("s26.jpg");
+            filter: grayscale(0%);
+        }
+
+
+
+
+
+        .image-hoverk1-container:hover .image-hoverk1 {
+            background-image: url("k1.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hoverk2-container:hover .image-hoverk2 {
+            background-image: url("k2.jpg");
+            filter: grayscale(0%);
+        } .image-hoverk3-container:hover .image-hoverk3 {
+            background-image: url("k3.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hoverk4-container:hover .image-hoverk4 {
+            background-image: url("k4.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk5-container:hover .image-hoverk5 {
+            background-image: url("k5.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk6-container:hover .image-hoverk6 {
+            background-image: url("k6.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk7-container:hover .image-hoverk7 {
+            background-image: url("k7.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk8-container:hover .image-hoverk8 {
+            background-image: url("k8.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk9-container:hover .image-hoverk9 {
+            background-image: url("k9.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk10-container:hover .image-hoverk10 {
+            background-image: url("k10.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk11-container:hover .image-hoverk11 {
+            background-image: url("k11.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk12-container:hover .image-hoverk12 {
+            background-image: url("k12.jpg");
+            filter: grayscale(0%);
+        }.image-hoverk13-container:hover .image-hoverk13 {
+            background-image: url("k13.jpg");
             filter: grayscale(0%);
         }
         .image-hoverf1-container:hover .image-hoverf1-text {
@@ -5397,6 +6024,74 @@ opacity: 1;
 
 opacity: 1;
     } .image-hovers26-container:hover .image-hovers26-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }
+    .image-hoverk1-container:hover .image-hoverk1-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }
+    .image-hoverk2-container:hover .image-hoverk2-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk3-container:hover .image-hoverk3-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk4-container:hover .image-hoverk4-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk5-container:hover .image-hoverk5-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk6-container:hover .image-hoverk6-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk7-container:hover .image-hoverk7-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk8-container:hover .image-hoverk8-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk9-container:hover .image-hoverk9-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    } .image-hoverk10-container:hover .image-hoverk10-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }
+    .image-hoverk11-container:hover .image-hoverk11-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverk12-container:hover .image-hoverk12-text {
+          
+        bottom: 0;
+
+opacity: 1;
+    }.image-hoverk13-container:hover .image-hoverk13-text {
           
         bottom: 0;
 
