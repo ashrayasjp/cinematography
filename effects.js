@@ -1,5 +1,5 @@
  const flags = [
-    "fi.jpg", "quen.jpg", "hi.jpg" , "sc.jpg" , "kub.jpeg"
+    "fi.jpg", "quen.jpg", "hi.jpg" , "sc.jpg" , "kub.jpeg" , "vik.png"
 ];
 
 
@@ -50,13 +50,13 @@ let currentIndex = 0;
         });
 
 // Audio hover functionality
-document.querySelectorAll('.image-hoverf4, .image-hoverq1, .image-hoverq2, .image-hoverq3, .image-hoverq4, .image-hoverq5, .image-hoverq6, .image-hoverq7, .image-hoverq8, .image-hoverq9, .image-hoverq10').forEach((item) => {
+document.querySelectorAll('.image-hoverf4, .image-hoverq1, .image-hoverq2, .image-hoverq3, .image-hoverq4, .image-hoverq5, .image-hoverq6, .image-hoverq7, .image-hoverq8, .image-hoverq9, .image-hoverq10, .image-hoverv1, .image-hoverv2,.image-hoverv3,.image-hoverv4,.image-hoverv5,.image-hoverv6,.image-hoverv7,.image-hoverv8,.image-hoverv9 , .image-hoverk8').forEach((item) => {
     let firstHoverTime = null;
     let isHovered = false;
 
     item.addEventListener('mouseover', function() {
         const audio = this.querySelector('audio');
-        audio.volume = 0.24; // 
+        audio.volume = 0.22; // 
         audio.play();
         
         isHovered = true; // Mouse is hovered
