@@ -1,5 +1,5 @@
  const flags = [
-    "fi.jpg", "quen.jpg", "hi.jpg" , "sc.jpg" , "kub.jpeg" , "vik.png"
+    "fi.jpg", "quen.jpg", "hi.jpg" , "sc.jpg" , "kub.jpeg" , "vik.png", "guru.jpg"
 ];
 
 
@@ -82,8 +82,4 @@ document.querySelectorAll('.image-hoverf4, .image-hoverq1, .image-hoverq2, .imag
         
         isHovered = false; // Mouse is no longer hovered
     });
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
