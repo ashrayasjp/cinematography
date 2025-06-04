@@ -72,51 +72,7 @@
         text-align: center;
         text-shadow: 1.5px 1.5px 1.5px #AA336A;
         }
-    .image-hover {
-       background-image: url("man.gif");
-       width: 270px;
-            height: 230px;
-            
-            background-size: cover;
-      filter: grayscale(100%);
-       transition: 0.3s  ease-in-out;
-        
-    }
-    .image-hover:hover { 
-        background-image: url("s1.gif");
-        filter: grayscale(0%);
-    }
-    .image-hover2 {
-       background-image: url("ter.gif");
-       width: 300px;
-            height: 23s0px;
-            
-            background-size: cover;
-      filter: grayscale(100%);
-       transition: 0.3s  ease-in-out;
-        
-    }
-    .image-hover2:hover { 
-        background-image: url("ts.gif");
-        filter: grayscale(0%);
-    }
-    .image-hover3 {
-       background-image: url("l.jpg");
-       width: 270px;
-            height: 230px;
-            
-            background-size: cover;
-      filter: grayscale(100%);
-       transition: 0.3s  ease-in-out;
-        
-    }
-    .image-hover3:hover { 
-        background-image: url("nubel.gif");
-        filter: grayscale(0%);
-    }
-   
-
-
+    
     .image-hoverf1{
        
        width: 270px;
@@ -1463,7 +1419,7 @@
          background-image: url("k13.jpg");
          filter: grayscale(0%);
      }
-<<<<<<< HEAD
+
 
      .image-hoverv1 {
         background-image: url("v1.jpg");
@@ -1590,8 +1546,120 @@
          background-image: url("v9.jpg");
          filter: grayscale(0%);
      }   
-=======
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+
+
+     .image-hovergd1 {
+        background-image: url("gd1.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd1:hover {
+        background-image: url("gd1.jpg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd2 {
+        background-image: url("gd2.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd2:hover {
+        background-image: url("gd2.jpg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd3 {
+        background-image: url("gd3.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd3:hover {
+        background-image: url("gd3.jpg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd4 {
+        background-image: url("gd4.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd4:hover {
+        background-image: url("gd4.jpg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd5 {
+        background-image: url("gd5.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd5:hover {
+        background-image: url("gd5.jpg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd6 {
+        background-image: url("gd6.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd6:hover {
+        background-image: url("gd6.jpg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd7 {
+        background-image: url("gd7.jpeg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd7:hover {
+        background-image: url("gd7.jpeg");
+        filter: grayscale(0%);
+    }
+    
+    .image-hovergd8 {
+        background-image: url("gd8.jpg");
+        width: 330px;
+        height: 270px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        filter: grayscale(100%);
+        transition: 0.3s ease-in-out;
+    }
+    .image-hovergd8:hover {
+        background-image: url("gd8.jpg");
+        filter: grayscale(0%);
+    }
+    
     table {
         width: 150px;
             height: 200px;
@@ -1805,12 +1873,11 @@ animation-name: myfirst 0.5 seconds;
         .quentin { background: -webkit-linear-gradient(rgb(255, 0, 170), rgb(250, 48, 183), rgb(250, 142, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .hitchcock {  background: -webkit-linear-gradient( black, rgb(136, 136, 126), rgb(255, 214, 214)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .scorsese {  background: -webkit-linear-gradient(rgb(255, 251, 0) , #fcff5a, rgb(245, 252, 158)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
-<<<<<<< HEAD
+
         .vikram {  background: -webkit-linear-gradient( #0099ff, #5fdaff, hsl(177, 77%, 83%)); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
-=======
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+
         .kubrick {  background: -webkit-linear-gradient( #ff0000, #ff7f00, #ffff00); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
-        .croatia { background: -webkit-linear-gradient( red, white , lightblue); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
+        .guru { background: -webkit-linear-gradient( red, rgb(245, 87, 87) , lightblue); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .denmark {  background: -webkit-linear-gradient( red, rgb(255, 181, 181)); -webkit-background-clip: text; -webkit-text-fill-color:transparent;}
         .england {  background: -webkit-linear-gradient( white , red, white); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
         .france {  background: -webkit-linear-gradient(blue, white, #8B0000); -webkit-background-clip: text; -webkit-text-fill-color:transparent; }
@@ -2465,7 +2532,6 @@ animation-name: myfirst 0.5 seconds;
             overflow: hidden;
          
         }
-<<<<<<< HEAD
 
 
         .image-hoverv1-container {
@@ -2531,8 +2597,56 @@ animation-name: myfirst 0.5 seconds;
             overflow: hidden;
          
         }
-=======
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+        .image-hovergd1-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd2-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd3-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd4-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd5-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd6-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd7-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        .image-hovergd8-container {
+            position: relative;
+            width: 250px;
+            height: 300px;
+            overflow: hidden;
+        }
+        
+
         .image-hoverf1{
             
             background-image: url("f1.jpg");
@@ -3330,7 +3444,7 @@ animation-name: myfirst 0.5 seconds;
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         }
-<<<<<<< HEAD
+
 
 
 
@@ -3411,8 +3525,64 @@ animation-name: myfirst 0.5 seconds;
             transition: 0.3s ease-in-out;
             background-repeat: no-repeat;
         } 
-=======
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+        .image-hovergd1 {
+            background-image: url("gd1.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd2 {
+            background-image: url("gd2.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd3 {
+            background-image: url("gd3.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd4 {
+            background-image: url("gd4.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd5 {
+            background-image: url("gd5.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd6 {
+            background-image: url("gd6.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd7 {
+            background-image: url("gd7.jpeg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        .image-hovergd8 {
+            background-image: url("gd8.jpg");
+            background-size: 250px 280px;
+            filter: grayscale(100%);
+            transition: 0.3s ease-in-out;
+            background-repeat: no-repeat;
+        }
+        
+
         .image-hoverf1-text {
             position: absolute;
             bottom: -40px;
@@ -5405,7 +5575,6 @@ animation-name: myfirst 0.5 seconds;
                 font-style: italic;
             
         }
-<<<<<<< HEAD
 
         .image-hoverv1-text {
             position: absolute;
@@ -5545,8 +5714,129 @@ animation-name: myfirst 0.5 seconds;
             font-family: 'Ancient Gothic';
             font-style: italic;
         }
-=======
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+
+        .image-hovergd1-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd2-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd3-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd4-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd5-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd6-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 16px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd7-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        .image-hovergd8-text {
+            position: absolute;
+            bottom: -40px;
+            left: 0;
+            width: 100%;
+            background-color: rgba(0, 0, 0, 0);
+            color: white;
+            text-align: center;
+            padding: 0;
+            opacity: 0;
+            transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+            font-size: 18px;
+            font-family: 'Ancient Gothic';
+            font-style: italic;
+        }
+        
+
         .image-hoverf1-container:hover .image-hoverf1 {
             background-image: url("f1.jpg");
             filter: grayscale(0%);
@@ -5836,11 +6126,6 @@ animation-name: myfirst 0.5 seconds;
             background-image: url("k13.jpg");
             filter: grayscale(0%);
         }
-<<<<<<< HEAD
-
-
-
-
 
         
         .image-hoverv1-container:hover .image-hoverv1 {
@@ -5875,8 +6160,39 @@ animation-name: myfirst 0.5 seconds;
             background-image: url("v9.jpg");
             filter: grayscale(0%);
         }
-=======
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+        .image-hovergd1-container:hover .image-hovergd1 {
+            background-image: url("gd1.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd2-container:hover .image-hovergd2 {
+            background-image: url("gd2.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd3-container:hover .image-hovergd3 {
+            background-image: url("gd3.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd4-container:hover .image-hovergd4 {
+            background-image: url("gd4.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd5-container:hover .image-hovergd5 {
+            background-image: url("gd5.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd6-container:hover .image-hovergd6 {
+            background-image: url("gd6.jpg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd7-container:hover .image-hovergd7 {
+            background-image: url("gd7.jpeg");
+            filter: grayscale(0%);
+        }
+        .image-hovergd8-container:hover .image-hovergd8 {
+            background-image: url("gd8.jpg");
+            filter: grayscale(0%);
+        }
+        
         .image-hoverf1-container:hover .image-hoverf1-text {
            
             bottom: 0;
@@ -6564,7 +6880,7 @@ opacity: 1;
 
 opacity: 1;
     }
-<<<<<<< HEAD
+
 
 
     .image-hoverv1-container:hover .image-hoverv1-text {
@@ -6617,13 +6933,46 @@ opacity: 1;
 
 opacity: 1;
 }
+.image-hovergd1-container:hover .image-hovergd1-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd2-container:hover .image-hovergd2-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd3-container:hover .image-hovergd3-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd4-container:hover .image-hovergd4-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd5-container:hover .image-hovergd5-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd6-container:hover .image-hovergd6-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd7-container:hover .image-hovergd7-text {
+    bottom: 0;
+    opacity: 1;
+}
+.image-hovergd8-container:hover .image-hovergd8-text {
+    bottom: 0;
+    opacity: 1;
+}
+
         a {
             color: aqua;
         }
         
-=======
+
         a {
             color: aqua;
         }
         
->>>>>>> b7f609750608debcdfc813005cf3a160c2c798e6
+
